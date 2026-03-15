@@ -1,0 +1,61 @@
+.about {
+    width: 100%;
+    padding: 7rem 0;
+
+    &__body {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        align-items: center;
+        @media only screen and (max-width: 850px) {
+            flex-direction: column-reverse;
+        }
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+        width: 50%;
+        @include responsive(tabLand) {
+            width: 47%;
+        }
+        @media only screen and (max-width: 850px) {
+            width: 85%;
+        }
+    }
+
+    &__list {
+        display: flex;
+    }
+
+    &__item {
+        display: flex;
+        align-items: center;
+        justify-content: end;
+        padding: 1rem 0rem;
+    }
+
+    &__icon {
+        margin-left: 1rem;
+    }
+
+    &__image {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        @include responsive(tabLand) {
+            width: 40%;
+        }
+    }
+
+    &__text {
+        margin-bottom: 2rem;
+        font-size: 2.5rem;
+        color: #333;
+        font-weight: 600;
+        opacity: 0.8;
+        line-height: 150%;
+    }
+}

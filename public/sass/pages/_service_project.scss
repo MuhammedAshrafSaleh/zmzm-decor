@@ -1,0 +1,48 @@
+.service__project {
+    width: 100%;
+    &__head {
+        margin-top: 20rem;
+        margin-bottom: 5rem;
+    }
+    &__container {
+        width: 90%;
+        margin: 0 auto;
+    }
+    &__body {
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    &__link {
+        width: 25%;
+        position: relative; 
+        overflow: hidden;
+        @include responsive(tabLand) {
+            width: 50%;
+        }
+        @include responsive(phone) {
+            width: 100%;
+        }
+    }
+    img {
+        transform: scale(1.2);
+        transition: all 0.5s ease-in-out;
+        filter: contrast(110%);
+    }
+    img:hover {
+        transform: scale(1);
+        filter: none;
+    }
+}
+
+.ekko-lightbox-nav-overlay a span {
+    position: absolute;
+}
+.ekko-lightbox-nav-overlay a:first-child span{
+    left: 2rem;
+}
+.ekko-lightbox-nav-overlay a:last-child span {
+    right: 2rem;
+}

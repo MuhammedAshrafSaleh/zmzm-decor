@@ -1,0 +1,16 @@
+.works__image {
+    .swiper {
+        width: 100%;
+        height: 60rem;
+        margin-top: 40px;
+    }
+    
+    .swiper-slide {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #EEE;
+        background-position: center;
+        background-size: cover;
+    }
+}

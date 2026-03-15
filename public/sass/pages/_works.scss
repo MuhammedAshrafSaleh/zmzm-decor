@@ -1,0 +1,68 @@
+.works {
+    width: 100%;
+    margin-bottom: 10rem;
+
+    &__head {
+        margin-bottom: 10rem;
+    }
+    &__row--reverse {
+        flex-direction: row-reverse;
+    }
+    &__row, &__row--reverse {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 15rem;
+        @include responsive(tab) {
+            display: flex;
+            flex-direction: column-reverse;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+ 
+    &__image {
+        width: 65%;
+        // padding: 5rem 3rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img {
+            max-width: 80%;
+        }
+        @include responsive(tab) {
+            width: auto;
+        }
+    }
+    &__content {
+        width: 30%;
+        @include responsive(tab) {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        h3 {
+            margin-bottom: 2rem;
+            font-size: 3rem;
+            text-align: right;
+        }
+        .secondary__text, .secondary__head{ 
+            margin-bottom: 2rem;  
+            @include responsive(tab) {
+                text-align: center;
+            }
+        }
+    }
+    &__footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    @include responsive(tab) {
+       .btn-bg {
+        width: 85%;
+       }
+    }
+}

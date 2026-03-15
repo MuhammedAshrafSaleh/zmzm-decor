@@ -1,0 +1,48 @@
+.btn {
+    background-color: var(--white);
+    font-size: 2rem;
+    color: var(--primary);
+    display: inline-block;
+    font-weight: 600;
+    box-shadow: rgba(0, 0, 0, 0.25) 2px 2px 2px;
+    transform: translateY(0px);
+    text-decoration: none;
+    padding: 2rem 3rem;
+    transition: all 0.3s ease-in-out 0s;
+    border: 1px solid var(--primary);
+    font-family: 'Tajawal';
+    span {
+        position: relative;
+        margin-right: 1rem;
+        left: 0;
+        font-size: 2rem;
+        animation: arrow 2s linear;
+        animation-iteration-count: infinite;
+    }
+}
+
+@keyframes arrow {
+    0% {
+        left: -1rem;
+    }
+
+    100% {
+        left: 0.5rem;
+    }
+}
+
+.btn-bg {
+    background-color: var(--secondary);
+    color: var(--white);
+    border: none;
+    font-weight: bold;
+    padding: 3rem 4rem;
+    display: inline-block;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.btn:hover {
+    transform: translateY(-5px);
+    box-shadow: rgba(0, 0, 0, 0.7) 2px 2px 2px;
+}

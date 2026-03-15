@@ -1,0 +1,26 @@
+.gallery {
+    width: 100%;
+    padding: 10rem 0;
+
+    &__container {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    &__link {
+        display: inline-block;
+        width: 25%;
+        height: 100%;
+        overflow: hidden;
+    }
+    &__img {
+        width: 100%;
+        object-fit: cover;
+        transition: all 1s;
+    }
+    &__link:hover &__img {
+        transform: scale(1.5);
+    }
+}

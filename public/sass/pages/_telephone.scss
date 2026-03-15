@@ -1,0 +1,92 @@
+.telephone {
+    width: 100%;
+    padding: 10rem 0;
+
+    @include responsive(phone) {
+        margin: 15rem 0;
+        background-attachment: fixed;
+        background-image: url('../../imgs/zmzm-telephone.png');
+        background-position: center;
+        background-size: cover;
+        position: relative;
+        z-index: 11;
+
+        &::after {
+            content: '';
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            background-color: rgba(0, 0, 0, 0.65);
+        }
+    }
+
+    &__body {
+        display: flex;
+        justify-content: space-between;
+
+        @include responsive(tab) {
+            justify-content: space-around;
+        }
+    }
+
+    &__icon {
+        max-width: 10rem;
+
+        @include responsive(phone) {
+            display: none;
+        }
+    }
+
+    &__content {
+        width: 45%;
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+        justify-content: center;
+
+        h3,
+        p {
+            margin-bottom: 2rem;
+            
+        @include responsive(phone) {
+            color: var(--white);
+        }
+
+        }
+
+        .btn {
+            margin: 2rem 0;
+        }
+
+        @include responsive(tab) {
+            padding-right: 2rem;
+        }
+
+        @include responsive(phone) {
+            align-items: center;
+            width: 100%;
+            z-index: 1;
+        }
+    }
+
+    &__image {
+        width: 45%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img {
+            height: 80rem;
+
+            @include responsive(tab) {
+                height: 60rem;
+            }
+        }
+
+        @include responsive(phone) {
+            display: none;
+        }
+    }
+}
