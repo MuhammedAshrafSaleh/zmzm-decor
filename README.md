@@ -208,49 +208,6 @@ zmzm-decor/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- PHP 8.1+
-- Composer
-- Node.js & npm
-- MySQL
-
-### Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/MuhammedAshrafSaleh/zmzm-decor.git
-cd zmzm-decor
-
-# 2. Install PHP dependencies
-composer install
-
-# 3. Install Node dependencies
-npm install
-
-# 4. Environment setup
-cp .env.example .env
-php artisan key:generate
-
-# 5. Configure your database in .env
-# DB_DATABASE=zmzm_decor
-# DB_USERNAME=your_username
-# DB_PASSWORD=your_password
-
-# 6. Run migrations & seeders
-php artisan migrate --seed
-
-# 7. Build frontend assets
-npm run build
-
-# 8. Start the development server
-php artisan serve
-```
-
----
-
 ## 👤 Developer
 
 <div align="center">
