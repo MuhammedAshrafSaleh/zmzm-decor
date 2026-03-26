@@ -157,34 +157,6 @@ A fully-featured **Admin Panel** enables complete content management without tou
 > ✅ All content is fully editable in **both Arabic and English** from the dashboard.
 
 ---
-
----
-
-## 📁 Project Structure
-
-```
-zmzm-decor/
-├── app/
-│   ├── Http/
-│   │   ├── Controllers/        # Page & API controllers
-│   │   └── Middleware/         # Auth, locale, etc.
-│   └── Models/                 # Eloquent ORM models
-├── database/
-│   ├── migrations/             # Database schema
-│   └── seeders/                # Sample/demo data
-├── lang/
-│   ├── en/                     # English translations
-│   └── ar/                     # Arabic translations
-├── resources/
-│   ├── views/                  # Blade templates
-│   ├── js/                     # JavaScript files
-│   └── scss/                   # SCSS stylesheets & themes
-├── routes/
-│   └── web.php                 # Application routes
-├── public/                     # Public assets
-└── vite.config.js              # Frontend build config
-```
-
 ---
 
 ## 👤 Developer
