@@ -62,48 +62,57 @@ The platform features a comprehensive **Admin Dashboard** for full content contr
 
 ---
 
-## 📸 Screenshots
 
+## 📸 Screenshots
+ 
 <details>
 <summary>🏠 <strong>Home Page</strong></summary>
 <br/>
-
-> *Screenshots coming soon — add your screenshots to the `/screenshots` folder*
-
+ 
+![Home Page](screenshots/zmzm-home.png)
+ 
 </details>
-
+ 
 <details>
 <summary>🛋️ <strong>Services</strong></summary>
 <br/>
-
-> *Screenshots coming soon*
-
+ 
+![Services](screenshots/zmzm-services.png)
+ 
 </details>
-
+ 
+<details>
+<summary>🔧 <strong>Project Services</strong></summary>
+<br/>
+ 
+![Project Services](screenshots/zmzm-project-service.png)
+ 
+</details>
+ 
 <details>
 <summary>🏰 <strong>Villas</strong></summary>
 <br/>
-
-> *Screenshots coming soon*
-
+ 
+![Villas](screenshots/zmzm-villas.png)
+ 
 </details>
-
+ 
 <details>
 <summary>📁 <strong>Categories</strong></summary>
 <br/>
-
-> *Screenshots coming soon*
-
+ 
+![Categories](screenshots/zmzm-categories.png)
+ 
 </details>
-
+ 
 <details>
 <summary>🖼️ <strong>Project Details</strong></summary>
 <br/>
-
-> *Screenshots coming soon*
-
+ 
+![Project Details](screenshots/zmzmdecor-project.png)
+ 
 </details>
-
+ 
 ---
 
 ## 🛠️ Tech Stack
