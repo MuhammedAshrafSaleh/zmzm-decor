@@ -47,7 +47,6 @@ The platform features a comprehensive **Admin Dashboard** for full content contr
 
 ### ⚙️ Platform
 - 🔐 **Admin Dashboard** — Full CMS for all website content
-- 🌍 **Bilingual** — Arabic (RTL) & English (LTR) fully supported
 - 📱 **Fully Responsive** — Optimized for mobile, tablet & desktop
 - 📞 **Client Inquiry** — Contact forms & call request booking
 - 🔗 **Social Integration** — WhatsApp & social media quick access
