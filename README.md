@@ -114,8 +114,8 @@ The platform features a comprehensive **Admin Dashboard** for full content contr
 
 | Layer | Technology | Purpose |
 |:------|:-----------|:--------|
-| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) Laravel 10.x | Core framework & routing |
-| **Language** | ![PHP](https://img.shields.io/badge/-PHP%208.1-777BB4?logo=php&logoColor=white) PHP 8.1+ | Server-side logic |
+| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) Laravel 9.19 | Core framework & routing |
+| **Language** | ![PHP](https://img.shields.io/badge/-PHP%208.1-777BB4?logo=php&logoColor=white) PHP 8.0.2+ | Server-side logic |
 | **Templating** | ![Blade](https://img.shields.io/badge/-Blade-FF2D20?logo=laravel&logoColor=white) Blade | Server-side views |
 | **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) MySQL | Relational data storage |
 | **Styling** | ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white) SCSS / Sass | Custom theming & styles |
@@ -157,17 +157,6 @@ A fully-featured **Admin Panel** enables complete content management without tou
 > ✅ All content is fully editable in **both Arabic and English** from the dashboard.
 
 ---
-
----
-
-## 🎨 Theme Support
-
-| Theme | Description |
-|:------|:-----------|
-| 🌑 **Dark Mode** | Sleek, modern dark aesthetic — default |
-| ☀️ **Light Mode** | Clean, minimal light experience |
-
-Themes use CSS custom properties (variables) for instant switching without page reload.
 
 ---
 
