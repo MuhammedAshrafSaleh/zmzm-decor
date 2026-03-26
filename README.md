@@ -24,7 +24,7 @@
 
 **ZMZM Decor** is a full-stack web application built for a premium interior design and decoration company. It serves as a sophisticated digital platform showcasing curated design categories, luxurious villa projects, and professional services — empowering clients to explore, connect, and experience world-class decor solutions.
 
-The platform features a comprehensive **Admin Dashboard** for full content control, bilingual **Arabic / English** support, and a seamless browsing experience across all devices.
+The platform features a comprehensive **Admin Dashboard** for full content control and a seamless browsing experience across all devices.
 
 ---
 
