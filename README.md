@@ -1,66 +1,278 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ZMZM%20Decor&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Premium%20Interior%20Design%20%26%20Decor%20Platform&descAlignY=55&descSize=18" width="100%"/>
 
-## About Laravel
+<br/>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+[![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![Vite](https://img.shields.io/badge/Vite-Build-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Multi-Language](https://img.shields.io/badge/Multi--Language-AR%20%7C%20EN-10B981?style=for-the-badge&logo=googletranslate&logoColor=white)](#)
+[![Admin Dashboard](https://img.shields.io/badge/Admin-Dashboard-F59E0B?style=for-the-badge&logo=adminer&logoColor=white)](#)
+[![Fullstack](https://img.shields.io/badge/Fullstack-Web%20App-3B82F6?style=for-the-badge&logo=stackshare&logoColor=white)](#)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<br/>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+> *"Where elegance meets innovation — crafting spaces that inspire."*
 
-## Learning Laravel
+<br/>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+</div>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+---
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## 📖 About ZMZM Decor
 
-## Laravel Sponsors
+**ZMZM Decor** is a full-stack web application built for a premium interior design and decoration company. It serves as a sophisticated digital platform showcasing curated design categories, luxurious villa projects, and professional services — empowering clients to explore, connect, and experience world-class decor solutions.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+The platform features a comprehensive **Admin Dashboard** for full content control, bilingual **Arabic / English** support, and a seamless browsing experience across all devices.
 
-### Premium Partners
+---
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+## ✨ Key Features
 
-## Contributing
+<table>
+<tr>
+<td width="50%">
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### 🏠 Frontend
+- 🎨 **Home Page** — Elegant hero section with featured highlights
+- 🛋️ **Services** — Detailed interior design service offerings
+- 🏛️ **Project Services** — Service breakdown per project type
+- 🏰 **Villas** — Luxury villa project showcases
+- 📁 **Categories** — Browse designs by style and category
+- 🖼️ **Project Gallery** — Full decor project portfolio with rich media
 
-## Code of Conduct
+</td>
+<td width="50%">
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### ⚙️ Platform
+- 🔐 **Admin Dashboard** — Full CMS for all website content
+- 🌍 **Bilingual** — Arabic (RTL) & English (LTR) fully supported
+- 📱 **Fully Responsive** — Optimized for mobile, tablet & desktop
+- 🎭 **Multi-Theme** — Dark & Light mode support
+- 📞 **Client Inquiry** — Contact forms & call request booking
+- 🔗 **Social Integration** — WhatsApp & social media quick access
 
-## Security Vulnerabilities
+</td>
+</tr>
+</table>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+---
 
-## License
+## 📸 Screenshots
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<details>
+<summary>🏠 <strong>Home Page</strong></summary>
+<br/>
+
+> *Screenshots coming soon — add your screenshots to the `/screenshots` folder*
+
+</details>
+
+<details>
+<summary>🛋️ <strong>Services</strong></summary>
+<br/>
+
+> *Screenshots coming soon*
+
+</details>
+
+<details>
+<summary>🏰 <strong>Villas</strong></summary>
+<br/>
+
+> *Screenshots coming soon*
+
+</details>
+
+<details>
+<summary>📁 <strong>Categories</strong></summary>
+<br/>
+
+> *Screenshots coming soon*
+
+</details>
+
+<details>
+<summary>🖼️ <strong>Project Details</strong></summary>
+<br/>
+
+> *Screenshots coming soon*
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology | Purpose |
+|:------|:-----------|:--------|
+| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) Laravel 10.x | Core framework & routing |
+| **Language** | ![PHP](https://img.shields.io/badge/-PHP%208.1-777BB4?logo=php&logoColor=white) PHP 8.1+ | Server-side logic |
+| **Templating** | ![Blade](https://img.shields.io/badge/-Blade-FF2D20?logo=laravel&logoColor=white) Blade | Server-side views |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) MySQL | Relational data storage |
+| **Styling** | ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white) SCSS / Sass | Custom theming & styles |
+| **CSS Framework** | ![Bootstrap](https://img.shields.io/badge/-Bootstrap%205-7952B3?logo=bootstrap&logoColor=white) Bootstrap 5 | Responsive UI components |
+| **Build Tool** | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) Vite | Fast frontend bundling |
+| **JavaScript** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) Vanilla JS | Interactive behaviors |
+| **i18n** | ![i18n](https://img.shields.io/badge/-Laravel%20Localization-10B981?logo=googletranslate&logoColor=white) Laravel Localization | Arabic & English support |
+
+---
+
+## 📄 Key Pages & Routes
+
+| Page | Route | Description |
+|:-----|:-------|:-----------|
+| 🏠 Home | `/` | Hero section, highlights & featured content |
+| 🛋️ Services | `/services` | Full interior design service catalog |
+| 🔧 Project Services | `/project-services` | Per-project service breakdown |
+| 🏰 Villas | `/villas` | Luxury villa projects showcase |
+| 📁 Categories | `/categories` | Design styles and collection browsing |
+| 🖼️ Project Details | `/projects/{slug}` | Individual project gallery & details |
+| 📞 Contact | `/contact` | Inquiry form, locations & call booking |
+
+---
+
+## 🔐 Admin Dashboard
+
+A fully-featured **Admin Panel** enables complete content management without touching any code.
+
+| Section | What You Can Manage |
+|:--------|:-------------------|
+| 🏠 **Home** | Hero content, background media, featured sections (AR & EN) |
+| 🛋️ **Services** | Add / edit / delete service offerings with descriptions |
+| 🔧 **Project Services** | Manage services linked to specific project types |
+| 🏰 **Villas** | Create and update luxury villa project entries |
+| 📁 **Categories** | Design style categories with images & descriptions |
+| 🖼️ **Projects** | Full project CRUD with gallery images & details |
+| 🔗 **Social Links** | Manage all social media & external links |
+
+> ✅ All content is fully editable in **both Arabic and English** from the dashboard.
+
+---
+
+## 🌍 Multi-Language Support
+
+The platform fully supports **Arabic (AR)** and **English (EN)** with proper RTL/LTR layout switching.
+
+- Language toggle available directly in the navigation
+- All UI strings managed via Laravel's `lang/` localization files
+- Complete RTL layout support for Arabic with SCSS direction utilities
+
+```
+lang/
+├── en/        # English translations
+└── ar/        # Arabic translations (RTL)
+```
+
+---
+
+## 🎨 Theme Support
+
+| Theme | Description |
+|:------|:-----------|
+| 🌑 **Dark Mode** | Sleek, modern dark aesthetic — default |
+| ☀️ **Light Mode** | Clean, minimal light experience |
+
+Themes use CSS custom properties (variables) for instant switching without page reload.
+
+---
+
+## 📁 Project Structure
+
+```
+zmzm-decor/
+├── app/
+│   ├── Http/
+│   │   ├── Controllers/        # Page & API controllers
+│   │   └── Middleware/         # Auth, locale, etc.
+│   └── Models/                 # Eloquent ORM models
+├── database/
+│   ├── migrations/             # Database schema
+│   └── seeders/                # Sample/demo data
+├── lang/
+│   ├── en/                     # English translations
+│   └── ar/                     # Arabic translations
+├── resources/
+│   ├── views/                  # Blade templates
+│   ├── js/                     # JavaScript files
+│   └── scss/                   # SCSS stylesheets & themes
+├── routes/
+│   └── web.php                 # Application routes
+├── public/                     # Public assets
+└── vite.config.js              # Frontend build config
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- PHP 8.1+
+- Composer
+- Node.js & npm
+- MySQL
+
+### Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/MuhammedAshrafSaleh/zmzm-decor.git
+cd zmzm-decor
+
+# 2. Install PHP dependencies
+composer install
+
+# 3. Install Node dependencies
+npm install
+
+# 4. Environment setup
+cp .env.example .env
+php artisan key:generate
+
+# 5. Configure your database in .env
+# DB_DATABASE=zmzm_decor
+# DB_USERNAME=your_username
+# DB_PASSWORD=your_password
+
+# 6. Run migrations & seeders
+php artisan migrate --seed
+
+# 7. Build frontend assets
+npm run build
+
+# 8. Start the development server
+php artisan serve
+```
+
+---
+
+## 👤 Developer
+
+<div align="center">
+
+**Muhammed Ashraf Saleh**
+
+[![GitHub](https://img.shields.io/badge/GitHub-MuhammedAshrafSaleh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammedAshrafSaleh)
+
+</div>
+
+---
+
+## 📄 License
+
+This project is proprietary software developed for **ZMZM Decor**. All rights reserved © 2024.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+*Built with ❤️ using Laravel & Bootstrap*
+
+</div>
