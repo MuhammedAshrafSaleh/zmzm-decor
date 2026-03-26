@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ZMZM%20Decor&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Premium%20Interior%20Design%20%26%20Decor%20Platform&descAlignY=55&descSize=18" width="100%"/>
-
 <br/>
 
 [![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
