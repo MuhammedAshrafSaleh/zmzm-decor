@@ -9,7 +9,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Vite](https://img.shields.io/badge/Vite-Build-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Multi-Language](https://img.shields.io/badge/Multi--Language-AR%20%7C%20EN-10B981?style=for-the-badge&logo=googletranslate&logoColor=white)](#)
 [![Admin Dashboard](https://img.shields.io/badge/Admin-Dashboard-F59E0B?style=for-the-badge&logo=adminer&logoColor=white)](#)
 [![Fullstack](https://img.shields.io/badge/Fullstack-Web%20App-3B82F6?style=for-the-badge&logo=stackshare&logoColor=white)](#)
 
@@ -52,7 +51,6 @@ The platform features a comprehensive **Admin Dashboard** for full content contr
 - 🔐 **Admin Dashboard** — Full CMS for all website content
 - 🌍 **Bilingual** — Arabic (RTL) & English (LTR) fully supported
 - 📱 **Fully Responsive** — Optimized for mobile, tablet & desktop
-- 🎭 **Multi-Theme** — Dark & Light mode support
 - 📞 **Client Inquiry** — Contact forms & call request booking
 - 🔗 **Social Integration** — WhatsApp & social media quick access
 
@@ -162,20 +160,6 @@ A fully-featured **Admin Panel** enables complete content management without tou
 > ✅ All content is fully editable in **both Arabic and English** from the dashboard.
 
 ---
-
-## 🌍 Multi-Language Support
-
-The platform fully supports **Arabic (AR)** and **English (EN)** with proper RTL/LTR layout switching.
-
-- Language toggle available directly in the navigation
-- All UI strings managed via Laravel's `lang/` localization files
-- Complete RTL layout support for Arabic with SCSS direction utilities
-
-```
-lang/
-├── en/        # English translations
-└── ar/        # Arabic translations (RTL)
-```
 
 ---
 
